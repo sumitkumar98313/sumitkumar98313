@@ -11,7 +11,7 @@
 - 🎓 **BCA Graduate** — MIT Meerut, CCS University (2023–2026)
 - 💼 **Python Full Stack Intern** at QSpiders, Noida
 - 🚀 Built 4 projects — SumitConnect, FinDjango, Finance Tracker, Portfolio
-- 📊 Solving DSA problems daily on LeetCode — 10 problems pushed to GitHub
+- 📊 Solving 1-2 DSA problems daily on LeetCode using Python
 - 🌱 Currently leveling up in **Django REST Framework** and **DSA**
 - 📧 Reach me at **sumitkumar9867832@gmail.com**
 - 🔗 Connect on [LinkedIn](https://linkedin.com/in/sumit-fullstack)
@@ -96,7 +96,6 @@
 
 ### 📊 DSA Practice
 
-![DSA Repo](https://img.shields.io/badge/DSA%20Problems%20Solved-10-brightgreen?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -118,6 +117,12 @@ Solving 1-2 DSA problems daily on LeetCode using Python and pushing solutions to
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumar98313&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </div>
+
+---
+
+### 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumitkumar98313&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
